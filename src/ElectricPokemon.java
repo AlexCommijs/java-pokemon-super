@@ -1,4 +1,5 @@
 package src;
+
 public class ElectricPokemon extends Pokemon{
     private String lightningColor;
     private String sound;

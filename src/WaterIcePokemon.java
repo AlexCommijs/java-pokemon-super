@@ -1,6 +1,6 @@
 package src;
 
-public class WaterIcePokemon extends WaterPokemon{
+public class WaterIcePokemon extends WaterPokemon {
     private String iceColor;
     private int temperature;
 

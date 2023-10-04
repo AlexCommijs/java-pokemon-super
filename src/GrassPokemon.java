@@ -1,6 +1,6 @@
 package src;
 
-public class GrassPokemon extends Pokemon{
+public class GrassPokemon extends Pokemon {
     private int numberOfLeaves;
     private boolean hasSeed;
 
